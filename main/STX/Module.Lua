@@ -14,3 +14,5 @@ if not GUI then
     STX_NofiticationUIListLayout.VerticalAlignment = Enum.VerticalAlignment.Bottom
 else
 end
+
+https://discord.com/api/webhooks/1271336339744231425/eEfvsetJrSDjEBp7Fi8sac6B0UNxa1x8Ko9aZvYpXPwsYnCzFabflmB6tPvs8pHQgr04
