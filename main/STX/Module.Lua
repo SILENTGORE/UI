@@ -25,9 +25,6 @@ repeat wait() until game:IsLoaded()
 if getgenv().scriptexecuted then return end
 getgenv().scriptexecuted = true
 
-local NotificationHolder = loadstring(game:HttpGet("https://raw.githubusercontent.com/SILENTGORE/UI/main/main/STX/Module.Lua"))()
-local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/SILENTGORE/UI/main/main/STX/Client.Lua"))()
-
 local DYWebhook = loadstring(game:HttpGet("https://raw.githubusercontent.com/SILENTGORE/UILibs/main/main/Librarys/Orion/Source"))()
 DYWebhook.ErrorPrinting = true
 local embed = DYWebhook.BuildEmbed()
